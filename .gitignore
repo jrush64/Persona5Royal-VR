@@ -1,0 +1,13 @@
+*.obj
+*.exp
+*.lib
+*.pdb
+*.bak
+.vs/
+__pycache__/
+# runtime output if someone tests from inside the repo
+p5rprobe_log.txt
+p5r_xr.log
+p5r_*.bmp
+p5r_flash_*/
+dist/

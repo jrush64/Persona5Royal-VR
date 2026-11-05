@@ -1,0 +1,7 @@
+*.obj
+*.exe
+*.log
+*.txt
+*.bmp
+p5r_effect_*/
+p5r_flash_*/
